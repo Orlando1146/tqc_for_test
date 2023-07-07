@@ -1,1 +1,3 @@
-# tqc_for_test
+# Python files for TQC certificate
+
+TQC Python3 certification
