@@ -1,0 +1,8 @@
+ayu 175 65
+Cathy 155 55
+Tony 172 75
+Daisy
+Kelvin
+Tom
+Joyce
+Sarah
